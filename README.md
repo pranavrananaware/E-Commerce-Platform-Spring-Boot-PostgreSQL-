@@ -1,4 +1,4 @@
-# Enterprise E-Commerce Platform 🛒
+# E-Commerce Platform 🛒
 
 This project is a complete enterprise-grade e-commerce web application developed using modern J2EE-based technologies and best practices. It is built with **Spring Boot**, **Spring Data JPA**, **PostgreSQL**, and **Thymeleaf**, and demonstrates deep integration of core backend and frontend concepts used in scalable, production-level systems.
 
