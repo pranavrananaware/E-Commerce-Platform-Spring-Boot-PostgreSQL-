@@ -6,8 +6,8 @@ This project is a complete enterprise-grade e-commerce web application developed
 
 - **Backend Framework**: Spring Boot, Spring Security
 - **Database**: PostgreSQL (MySQL supported via config), JPA, Hibernate
-- **Frontend**: Thymeleaf, JSP, JSTL (optional)
-- **API Standards**: RESTful APIs (JSON/JSON API), optional SOAP/XML with JAXB/WSDL
+- **Frontend**: Thymeleaf, JSP
+- **API Standards**: RESTful APIs (JSON/JSON API), 
 - **Other Java Technologies**: Servlet, JDBC, JMS, JAXB, XSLT
 - **Build Tool**: Maven
 - **Security**: Spring Security, Web Security Configurations
